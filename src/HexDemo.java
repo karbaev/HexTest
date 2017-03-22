@@ -3,7 +3,8 @@
  */
 public class HexDemo {
     public static void main(String[] args) {
-        System.out.println("eee2");
-        //master change
+        System.out.println("eee3");
+        //dev 2 branch
+        //more changes in dev2
     }
 }
